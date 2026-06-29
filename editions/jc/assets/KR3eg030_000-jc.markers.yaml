@@ -1,0 +1,13 @@
+canonical_identifier: bkk:krp/KR3eg030/jc/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: xml-element, offset: 2, content: '', id: KR3eg030_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3eg030_jc_000-d2p2}}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3eg030_jc_000-d2.p2s1}
+  - {type: xml-element, offset: 103, content: '', id: KR3eg030_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3eg030_jc_000-d2p2}}
+  - {type: xml-element, offset: 103, content: '', id: KR3eg030_jc_000-d2p4, name: p, role: open, attrs: {'xml:id': KR3eg030_jc_000-d2p4}}
+  - {type: 'tls:seg', offset: 103, content: '', id: KR3eg030_jc_000-d2.p4s1}
+  - {type: xml-element, offset: 247, content: '', id: KR3eg030_jc_000-d2p4_end, name: p, role: close, attrs: {'xml:id': KR3eg030_jc_000-d2p4}}
+  body: []
+  back: []
+hash: sha256:0265b302ee97e047d71825c4a61aeb2a451321393a08888b77e7cf1e85838da8
