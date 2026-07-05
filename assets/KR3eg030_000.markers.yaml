@@ -7,8 +7,7 @@ markers:
   - {type: xml-element, offset: 103, content: '', id: KR3eg030_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3eg030_jc_000-d2p2}}
   - {type: xml-element, offset: 103, content: '', id: KR3eg030_jc_000-d2p4, name: p, role: open, attrs: {'xml:id': KR3eg030_jc_000-d2p4}}
   - {type: 'tls:seg', offset: 103, content: '', id: KR3eg030_jc_000-d2.p4s1}
-  - {type: substitution, offset: 245, original: 艸, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0670}}
   - {type: xml-element, offset: 247, content: '', id: KR3eg030_jc_000-d2p4_end, name: p, role: close, attrs: {'xml:id': KR3eg030_jc_000-d2p4}}
   body: []
   back: []
-hash: sha256:f24bd1f7ad049c7e5b06d0a2598bfecd94760adb2db9f52e87f063b8c7d8559f
+hash: sha256:dec3a036b4a8a228d6e7afefbab8ab2e6e478ed35d0fed88f629d75ac2c43f67
