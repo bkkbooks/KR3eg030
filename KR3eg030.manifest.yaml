@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg030_000.yaml, hash: 'sha256:d340470aee4096ed0f388d0c75d20761588aba149fdf9b69121faad56418ef96'}
+  - {seq: 0, filename: KR3eg030_000.yaml, hash: 'sha256:25aed9f3faf003b4d51684bad5677948ca6b24859f4555ba6d02e68e71082994'}
   - {seq: 1, filename: KR3eg030_001.yaml, hash: 'sha256:12d787ead1f93361f884f462e7335158a09523c64ea2a313eb5f6c3ab044b845'}
   - {seq: 2, filename: KR3eg030_002.yaml, hash: 'sha256:b209c4c235b45761c8447c52445f0d1a7e6a3ff7de7583c5f9aab7223be1a3f5'}
   - {seq: 3, filename: KR3eg030_003.yaml, hash: 'sha256:960de4e99964b20e7a6ad1dd25c6ba604ead167ad8d05d1c55ee53cfecf81ae4'}
   - {seq: 4, filename: KR3eg030_004.yaml, hash: 'sha256:fe27e4bd70b94d6b86cc13d87f16288ebe1f2b4a816fc5536ea2e2b74f51ac0f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg030_000.markers.yaml, hash: 'sha256:9577c315dbbcd322ec5796164364a33219905a350b0d52b5dcb681e56e338429'}
+  - {seq: 0, role: markers, filename: assets/KR3eg030_000.markers.yaml, hash: 'sha256:9805a3457af0efac78803f30dbedb514ad0baffe6c14262eb07d3312588b7c93'}
   - {seq: 1, role: markers, filename: assets/KR3eg030_001.markers.yaml, hash: 'sha256:367ffe0626bb8323c2f2921ace57a0a463f38c56bc2c8897191fc9021ea319fd'}
   - {seq: 2, role: markers, filename: assets/KR3eg030_002.markers.yaml, hash: 'sha256:b63d142816bc8e36e2acd488098be5073c8c58bab4c057ee7b59cf182a5559cb'}
   - {seq: 3, role: markers, filename: assets/KR3eg030_003.markers.yaml, hash: 'sha256:4cf9d6ee7c4254d8defd387e17ef59effc0f91cab3dfe6c546cd26267ca3a333'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eg030_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 247
   label: 自序
@@ -2019,7 +2019,7 @@ table_of_contents:
   label: 卷四
   type: section
   level: 1
-hash: sha256:35ba99a83e5c290e6a7dbcce13172f34429fc4b866288efcdd7784990a250cf3
+hash: sha256:d5a960284b4e1ab80d58d3b561778620ec9cb49ce703cb8ac6d6e30e78a634bf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
